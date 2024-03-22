@@ -27,8 +27,8 @@
 - 👋 Hi, I’m @Khushnu ( Waleed Ahmad )
 - :telescope: I’m interested in Mobile Development And UI/UX Also Working on Web Development
 - :seedling: Exploring Technical Content Writing.
-- :zap: I’m currently learning Flutter and Machine Learning
-- 💞️ I’m looking to collaborate on Flutter and Arduino based Projects
+- :zap: Flutter, Javascript, Typescript, Node.js, Express.js
+- 💞️ I’m looking to collaborate on Flutter, Javascript, node.js and Arduino based Projects
 - :hourglass: Fast Learner | learn New Technologies
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Waleed-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/waleed-ahmad-02473b17a/)
 
