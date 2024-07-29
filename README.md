@@ -25,10 +25,10 @@
 ### :man_technologist: About Me :
 
 - 👋 Hi, I’m @Khushnu ( Waleed Ahmad )
-- :telescope: I’m interested in Mobile Development And UI/UX Also Working on Web Development
+- :telescope: I’m interested in Mobile Development And Working on Web Development
 - :seedling: Exploring Technical Content Writing.
-- :zap: Flutter, Javascript, Typescript, Node.js, Express.js
-- 💞️ I’m looking to collaborate on Flutter, Javascript, node.js and Arduino based Projects
+- :zap: Flutter, Javascript, Typescript, Nest.JS
+- 💞️ I’m looking to collaborate on Flutter, Javascript and Nest.JS
 - :hourglass: Fast Learner | learn New Technologies
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Waleed-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/waleed-ahmad-02473b17a/)
 
