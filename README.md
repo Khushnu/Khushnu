@@ -62,7 +62,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Khushnu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Khushnu&theme=dark&background=000000)](https://git.io/streak-stats)
-
+<!--
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Khushnu&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
