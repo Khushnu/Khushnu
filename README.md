@@ -21,8 +21,12 @@
 <div id="ban"  align="center">
   <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="250" height="250" align="center"/>
   </div>
-
+<div align="center" >
+ <h1>
+  
   ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+ </h1>
+</div>
 
 
 ### :man_technologist: About Me :
