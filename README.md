@@ -18,7 +18,7 @@
   <img src="https://komarev.com/ghpvc/?username=Khushnu&style=flat-square&color=blue" alt=""/>
   </div>
   
-<div id="ban"  align="center">
+<div id="ban"  align="center", width="200">
   <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="250" height="250" align="center"/>
   </div>
 <div align="center" >
