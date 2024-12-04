@@ -70,6 +70,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Khushnu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Khushnu&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Khushnu&theme=dark&background=000000)](https://git.io/streak-stats)
