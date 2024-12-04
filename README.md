@@ -1,32 +1,6 @@
  <div id="header" align="center">
                 Hey There
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <img src="https://media.giphy.com/media/s63Jzew1dfO3j6nndV/giphy.gif" width="80" height="80"/>
-</div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/waleed-ahmad-02473b17a/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UCb1rDIHJKSOL2qe-2NzUFdw">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://www.facebook.com/heyDictator">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-<div id="count" align="center" >
-  <img src="https://komarev.com/ghpvc/?username=Khushnu&style=flat-square&color=blue" alt=""/>
-  </div>
-  
-<div id="ban"  align="center", width="200">
-  <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="250" height="250" align="center"/>
-  </div>
-<div align="center" >
- <h1>
-  
-  ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
- </h1>
-</div>
+ 
 
 
 ### :man_technologist: About Me :
