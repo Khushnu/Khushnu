@@ -22,6 +22,9 @@
   <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="250" height="250" align="center"/>
   </div>
 
+  ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+
 ### :man_technologist: About Me :
 
 - 👋 Hi, I’m @Khushnu ( Waleed Ahmad )
