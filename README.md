@@ -1,5 +1,7 @@
  <div id="header" align="center">
-                Hey There </div>
+               <h2>Hey There</h2>  </div>
+
+                
  <div id="imagee" align="center">
   <img src="https://camo.githubusercontent.com/88adc7c88c9d3dba7479020846ed35d13410e3707c7f149e1c6140cc6beaef9a/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966"  width="250" height="150"/>
  </div>
@@ -57,9 +59,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Khushnu&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Khushnu&theme=dark&background=000000)](https://git.io/streak-stats)
 <!--
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Khushnu&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
